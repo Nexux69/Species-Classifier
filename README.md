@@ -30,10 +30,12 @@ A web-based animal image classifier built with **Streamlit** and **TensorFlow/Ke
 ## 🖼️ Screenshots
 
 ### Home / Upload Interface
-![App Home](./assets/ss2.jpg)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7a8bc43-0a6c-4f99-8f8c-86a371ca5ab4" />
+
 
 ### Prediction Example
-![Prediction Result](./assets/ss1.jpg)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05c388e8-8730-425d-8f9c-5e21f3f441ca" />
+
 
 ---
 
