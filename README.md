@@ -52,17 +52,9 @@ A web-based animal image classifier built with **Streamlit** and **TensorFlow/Ke
 
 ---
 
-## 🐶 How to Use
+## 🐶 Live Demo
 
-1. **Start the app**
-    ```bash
-    streamlit run app.py
-    ```
-2. **Upload an image**
-    - Supported formats: JPG, JPEG, PNG, WEBP.
-3. **See the result**
-    - The app will display the uploaded image, predicted class, and the confidence score.
-    - If the prediction is uncertain or the image does not belong to the six trained classes, you will see **Unknown / Don't Know**.
+https://species-classifier-faiz-shaikh.streamlit.app/
 
 ---
 
