@@ -1,3 +1,5 @@
+
+# Also can identify species using webcam 
 import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
@@ -36,3 +38,4 @@ while True:
 # Release the live camera
 cap.release()
 cv2.destroyAllWindows()
+
